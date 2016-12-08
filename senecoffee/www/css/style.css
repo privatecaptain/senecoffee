@@ -1,0 +1,48 @@
+/* Empty. Add your own CSS if you like */
+
+.title-image , .title {
+height: 60px !important;
+padding-top: 10px !important;
+padding-bottom: 10px !important;
+}
+
+.mybar, .bar ,.bar-header{
+	height: 80px !important;
+}
+
+.bar-subheader{
+	height: auto !important;
+}
+.subs{
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+	height: auto !important;
+}
+
+.row{
+	margin-top: 100px;
+}
+
+.item-image{
+	width: 100%;
+	height: auto;
+}
+
+.vendors{
+	height: 200px;
+	width: 200px;
+}
+
+
+h2{
+	overflow: visible;
+}
+
+.sub{
+	padding-bottom: 0px;
+}
+
+
+.background, .background .pane, .background .item, .background .item-complex .item-content {
+    background-color: yellow;
+}
